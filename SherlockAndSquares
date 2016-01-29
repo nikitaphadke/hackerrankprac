@@ -1,3 +1,9 @@
+/*
+Concept of Floor and Ceil.
+Watson gives two integers (A and B) to Sherlock and asks if he can count the number 
+of square integers between A and B (both inclusive).
+
+*/
 import java.io.*;
 public class Solution {
 	
