@@ -6,11 +6,7 @@ of square integers between A and B (both inclusive).
 */
 import java.io.*;
 public class Solution {
-	
-
-
-
-	    public static void main(String[] args) throws IOException {
+                public static void main(String[] args) throws IOException {
 	        StringBuffer sb = new StringBuffer();
 	        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	        
